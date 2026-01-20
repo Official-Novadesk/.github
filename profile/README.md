@@ -1,7 +1,7 @@
 <div align="center">
   <p>
     <img src="../assets/novadesk.png" alt="Novadesk Logo" width="150"/>
-    <img src="../assets/novadesk-title.svg" alt="Novadesk" width="400"/>
+    <img src="../assets/novadesk-title.svg" alt="Novadesk" width="450"/>
   </p>
 
   <p>
