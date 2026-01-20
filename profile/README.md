@@ -1,10 +1,8 @@
 <div align="center">
-  <h1 style="display: flex; align-items: center; justify-content: center; gap: 20px;">
+  <p>
     <img src="../assets/novadesk.png" alt="Novadesk Logo" width="150"/>
-    <span style="background: linear-gradient(90deg, #9333ea 0%, #10b981 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; font-weight: bold; font-size: 3em;">
-      Novadesk
-    </span>
-  </h1>
+    <img src="../assets/novadesk-title.svg" alt="Novadesk" width="400"/>
+  </p>
 
   <p>
   <strong>Build beautiful, customizable desktop widgets with JavaScript</strong>
@@ -25,13 +23,11 @@ Novadesk is a powerful, open-source desktop widget platform built with C++ and p
 Transform your Windows desktop into a dynamic, information-rich workspace with widgets that display real-time system metrics, custom data visualizations, and interactive elements all while maintaining minimal resource usage.
 </p>
 
-  <hr style="width: 60%; border: 2px solid #9333ea; margin: 40px auto;"/>
+  <hr/>
   
-  <h2>
-    <span style="background: linear-gradient(90deg, #9333ea 0%, #10b981 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; font-weight: bold; font-size: 2.5em;">
-      Coming Soon...
-    </span>
-  </h2>
+  <p>
+    <img src="../assets/coming-soon.svg" alt="Coming Soon..." width="380"/>
+  </p>
 
 </div>
 
