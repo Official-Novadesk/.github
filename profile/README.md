@@ -1,9 +1,5 @@
 <div align="center">
-  <p>
-    <img src="../assets/novadesk.png" alt="Novadesk Logo" width="150"/>
-    <img src="../assets/novadesk-title.svg" alt="Novadesk" width="450"/>
-  </p>
-
+  <img src="https://github.com/Official-Novadesk/novadesk-assets/blob/master/app-logo/logo-text.png?raw=true" alt="Novadesk Logo"/>
   <p>
   <strong>Build beautiful, customizable desktop widgets with JavaScript</strong>
 </p>
@@ -24,10 +20,5 @@ Transform your Windows desktop into a dynamic, information-rich workspace with w
 </p>
 
   <hr/>
-  
-  <p>
-    <img src="../assets/coming-soon.svg" alt="Coming Soon..." width="380"/>
-  </p>
-
 </div>
 
