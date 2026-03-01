@@ -12,7 +12,7 @@
 </p>
 
 <p>
-Novadesk is a powerful, open-source desktop widget platform built with C++ and powered by the Duktape JavaScript engine. It empowers developers and enthusiasts to create stunning system monitors, custom interfaces, and desktop enhancements using familiar JavaScript syntax.
+Novadesk is a powerful, open-source desktop widget platform built with C++. It empowers developers and enthusiasts to create stunning system monitors, custom interfaces, and desktop enhancements using familiar JavaScript syntax.
 </p>
 
 <p>
